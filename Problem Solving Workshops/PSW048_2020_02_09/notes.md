@@ -9,3 +9,4 @@
 # Question 2
 1. number of leaf nodes.
 2. Path span: tree traversal with a bit tracking on change of parent value increment 
+3. # max over all children + 1
