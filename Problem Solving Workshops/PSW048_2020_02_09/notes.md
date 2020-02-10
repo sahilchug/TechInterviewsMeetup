@@ -1,4 +1,4 @@
-# 1
+# Question 1
 ## use counter to track time
 ## reset both global adder and global multiplier when you multiply by 0
 ## on set opration need to take into global multiplier and global adder into account
